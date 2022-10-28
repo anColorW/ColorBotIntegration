@@ -1,0 +1,8 @@
+name: ColorDiscord
+main: me.color.Main
+author: Color
+version: 0.1
+
+commands:
+  connect:
+  reset:
